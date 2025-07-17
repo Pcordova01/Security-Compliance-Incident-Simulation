@@ -57,9 +57,9 @@ To complete the controls assessment checklist, refer to the information provided
 Then, select “yes” or “no” to answer the question: Does Botium Toys currently have this control in place? 
 
 
-Controls assessment checklist
+**Controls assessment checklist**
 
-  Yes     No  Control
+ **Yes**     **No**  **Control**
 Least Privilege
 
 
