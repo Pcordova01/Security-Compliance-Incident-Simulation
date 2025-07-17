@@ -68,7 +68,7 @@ Then, select **“yes”** or **“no”** to answer the question: Does Botium T
 **Payment Card Industry Data Security Standard (PCI DSS)**<br><br>
 <img src="https://github.com/user-attachments/assets/be3eb249-d705-4e54-befe-e90db7cf2954" alt="Screenshot" width="400"/>
 
-General Data Protection Regulation (GDPR)
+**General Data Protection Regulation (GDPR)**<br><br>
 Yes
     No
 Best practice
@@ -95,7 +95,7 @@ Enforce privacy policies, procedures, and processes to properly document and mai
 
 
 
-System and Organizations Controls (SOC type 1, SOC type 2) 
+**System and Organizations Controls (SOC type 1, SOC type 2)** <br><br> 
 Yes
     No
 Best practice
