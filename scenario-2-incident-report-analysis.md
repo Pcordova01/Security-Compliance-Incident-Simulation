@@ -13,5 +13,6 @@ You take the server offline temporarily so that the machine can recover and retu
 ![Screenshot 2025-07-17 172257](https://github.com/user-attachments/assets/5cd28656-89a6-45d4-a60c-b5f6ddbf9b70)
 
 ## Security Incident Report
-| Section 1: Identify the network protocol involved in the incident | 
-|The network protocols involved in the incident are DNS and HTTP. The DNS protocol was used for the source computer to send a DNS query to the server ‘dns.google.domain’. The HTTP protocol was used for the communication between the source computer and ‘yummyrecipesforme.com.http’.|
+| Section | Details |
+|---------|---------|
+| **1: Identify the network protocol involved in the incident** | The network protocols involved in the incident are **DNS** and **HTTP**. The DNS protocol was used for the source computer to send a DNS query to the server `dns.google.domain`. The HTTP protocol was used for the communication between the source computer and `yummyrecipesforme.com.http`. |
