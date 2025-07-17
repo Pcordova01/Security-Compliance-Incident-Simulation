@@ -74,6 +74,9 @@ width="400"/>
 
 --- 
 
+### Risk Score:<br>
+8/10 - High risk due to several missing critical controls and poor compliance with industry best practices. 
+
 ### Recommendations:
 Botium Toy’s current security posture has resulted in a wide attack surface that would allow for hackers to utilize a plethora of different attack vectors. This is the reason for its high risk score. To improve Botium Toy’s security posture it is recommended to implement the following changes: 
 
