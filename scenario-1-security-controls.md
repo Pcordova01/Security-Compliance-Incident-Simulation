@@ -65,10 +65,8 @@ Then, select “yes” or “no” to answer the question: Does Botium Toys curr
 
 #### Compliance checklist
 
-**Payment Card Industry Data Security Standard (PCI DSS)**
-Yes
-    No
-Best practice
+**Payment Card Industry Data Security Standard (PCI DSS)**<br><br>
+![Screenshot 2025-07-17 152403](https://github.com/user-attachments/assets/be3eb249-d705-4e54-befe-e90db7cf2954)
 
 
 
