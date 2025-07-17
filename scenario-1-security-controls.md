@@ -58,7 +58,7 @@ Then, select “yes” or “no” to answer the question: Does Botium Toys curr
 
 
 **Controls assessment checklist**<br><br>
-![Screenshot 2025-07-17 151817](https://github.com/user-attachments/assets/7fef6848-d8c1-4063-a795-a7257bd00931)
+<img src="https://github.com/user-attachments/assets/7fef6848-d8c1-4063-a795-a7257bd00931" alt="Screenshot" width="400"/>
 
 
 
