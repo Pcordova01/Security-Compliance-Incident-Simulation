@@ -75,30 +75,10 @@ width="400"/>
 **System and Organizations Controls (SOC type 1, SOC type 2)** <br><br> 
 <img src="https://github.com/user-attachments/assets/7846932c-0973-4a9c-a417-a9fa2bb4cd9d" alt="Screenshot" width="400"/>
 
+--- 
 
-
-
-User access policies are established.
-
-
-
-
-Sensitive data (PII/SPII) is confidential/private.
-
-
-
-
-Data integrity ensures the data is consistent, complete, accurate, and has been validated.
-
-
-
-
-Data is available to individuals authorized to access it.
-
-
-
-This section is optional and can be used to provide a summary of recommendations to the IT manager regarding which controls and/or compliance best practices Botium Toys needs to implement, based on the risk posed if not implemented in a timely manner.
-Recommendations (optional): In this section, provide recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.
+This section is optional and can be used to provide a summary of recommendations to the IT manager regarding which controls and/or compliance best practices Botium Toys needs to implement, based on the risk posed if not implemented in a timely manner.<br>
+**Recommendations (optional):** In this section, provide recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.<br>
 Botium Toy’s current security posture has resulted in a wide attack surface that would allow for hackers to utilize a plethora of different attack vectors. This is the reason for its high risk score. To improve Botium Toy’s security posture it is recommended to implement the following changes: 
 
 Implement Access Controls: Access to sensitive data and systems should only be provided to those necessary, follow the principle of least privilege. 
