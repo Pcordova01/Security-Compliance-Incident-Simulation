@@ -63,9 +63,9 @@ To complete the compliance checklist, refer to the information provided in the s
 
 Then, select “yes” or “no” to answer the question: Does Botium Toys currently adhere to this compliance best practice?
 
-Compliance checklist
+#### Compliance checklist
 
-Payment Card Industry Data Security Standard (PCI DSS)
+**Payment Card Industry Data Security Standard (PCI DSS)**
 Yes
     No
 Best practice
