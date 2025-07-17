@@ -12,15 +12,17 @@ Botium Toys: Scope, goals, and risk assessment report
 
 **Current assets**
 Assets managed by the IT Department include: <br>
-On-premises equipment for in-office business needs  
-Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
-Storefront products available for retail sale on site and online; stored in the company’s adjoining warehouse
-Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management
-Internet access
-Internal network
-Data retention and storage
-Legacy system maintenance: end-of-life systems that require human monitoring 
-Risk assessment
+* On-premises equipment for in-office business needs  
+* Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
+* Storefront products available for retail sale on site and online; stored in the company’s adjoining warehouse
+* Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management
+* Internet access
+* Internal network
+* Data retention and storage
+* Legacy system maintenance: end-of-life systems that require human monitoring<br>
+
+### Risk assessment<br>
+
 Risk description
 Currently, there is inadequate management of assets. Additionally, Botium Toys does not have all of the proper controls in place and may not be fully compliant with U.S. and international regulations and standards. 
 Control best practices
