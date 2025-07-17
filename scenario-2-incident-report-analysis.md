@@ -20,8 +20,6 @@ You take the server offline temporarily so that the machine can recover and retu
 | Section 2 | Details |
 |---------|---------|
 | **Identify the network protocol involved in the incident** | In a recent cybersecurity incident, ‘yummyrecipeforme.com’ was the target of a successful brute force attack initiated by a formal employee. The attacker attempted multiple default administrator passwords until they successfully gained unauthorized access to the website’s backend. 
-
 Once access was obtained, the attacker injected malicious JavaScript into the website. This code altered the website to where it would automatically download an executable file onto user’s devices. When executed, the script would redirect users to a phony website called ‘greatrecipesforme.com’. 
-
 As a result, users who ran the file experienced suspicious behavior on their systems and may require IT support due to potential malware infection. 
  |
