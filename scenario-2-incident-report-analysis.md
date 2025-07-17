@@ -1,5 +1,7 @@
 # Scenario 2: Cybersecurity Incident Report
 
+In this scenario I acted as a Security Analyst for a fictional travel agency, where I was tasked with analyzing packet data, identifying signs of a network-based attack, and documenting the incident using a structured reporting format. The goal was to simulate real-world detection and response workflows using tools such as Wireshark and standard incident documentation procedures. 
+
 ## Scenario
 You work as a security analyst for a travel agency that advertises sales and promotions on the company’s website. The employees of the company regularly access the company’s sales webpage to search for vacation packages their customers might like. 
 
