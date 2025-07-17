@@ -56,7 +56,7 @@ To complete the controls assessment checklist, refer to the information provided
 
 Then, select “yes” or “no” to answer the question: Does Botium Toys currently have this control in place? 
 
-#### <u>Controls assessment checklist</u> <br><br>
+#### <u>Controls assessment checklist</u> <br>
 <img src="https://github.com/user-attachments/assets/7fef6848-d8c1-4063-a795-a7257bd00931" alt="Screenshot" width="400"/>
 
 To complete the compliance checklist, refer to the information provided in the scope, goals, and risk assessment report. For more details about each compliance regulation, review the controls, frameworks, and compliance reading.
