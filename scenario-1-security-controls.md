@@ -73,9 +73,7 @@ Then, select **“yes”** or **“no”** to answer the question: Does Botium T
 width="400"/>
 
 **System and Organizations Controls (SOC type 1, SOC type 2)** <br><br> 
-Yes
-    No
-Best practice
+<img src="https://github.com/user-attachments/assets/7846932c-0973-4a9c-a417-a9fa2bb4cd9d" alt="Screenshot" width="400"/>
 
 
 
