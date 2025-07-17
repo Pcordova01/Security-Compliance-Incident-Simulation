@@ -50,7 +50,7 @@ The potential impact from the loss of an asset is rated as medium, because the I
 * The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.<br>
 
 
-#### Controls and compliance checklist
+## Controls and compliance checklist
 
 To complete the controls assessment checklist, refer to the information provided in the scope, goals, and risk assessment report. For more details about each control, including the type and purpose, refer to the control categories document.
 
