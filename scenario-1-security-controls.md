@@ -2,7 +2,7 @@
 
 In this scenario, I evaluated the security posture of a fictional company (Botium Toys) by identifying and assessing the presence of various administrative and technical controls. My objective was to determine which common security controls are currently in place, identify any gaps, and recommend improvements to reduce the organization's overall risk exposure.
 
-## Given Scenario: 
+# Given Scenario: 
 Botium Toys: Scope, goals, and risk assessment report
 
 ## Scope and goals of the audit<br>
