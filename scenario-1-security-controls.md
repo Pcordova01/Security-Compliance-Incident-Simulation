@@ -61,34 +61,12 @@ Then, select “yes” or “no” to answer the question: Does Botium Toys curr
 
 To complete the compliance checklist, refer to the information provided in the scope, goals, and risk assessment report. For more details about each compliance regulation, review the controls, frameworks, and compliance reading.
 
-Then, select “yes” or “no” to answer the question: Does Botium Toys currently adhere to this compliance best practice?
+Then, select **“yes”** or **“no”** to answer the question: Does Botium Toys currently adhere to this compliance best practice?
 
-#### Compliance checklist
+### Compliance checklist
 
 **Payment Card Industry Data Security Standard (PCI DSS)**<br><br>
 <img src="https://github.com/user-attachments/assets/be3eb249-d705-4e54-befe-e90db7cf2954" alt="Screenshot" width="400"/>
-
-
-
-
-Only authorized users have access to customers’ credit card information. 
-
-
-
-
-Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment.
-
-
-
-
-Implement data encryption procedures to better secure credit card transaction touchpoints and data. 
-
-
-
-
-Adopt secure password management policies.
-
-
 
 General Data Protection Regulation (GDPR)
 Yes
