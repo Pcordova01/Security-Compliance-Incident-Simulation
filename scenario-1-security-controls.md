@@ -60,7 +60,7 @@ To complete the compliance checklist, refer to the information provided in the s
 
 Then, select **“yes”** or **“no”** to answer the question: Does Botium Toys currently adhere to this compliance best practice?
 
-### Compliance checklist
+### Compliance checklist:
 
 **Payment Card Industry Data Security Standard (PCI DSS)** <br><br>
 <img src="https://github.com/user-attachments/assets/be3eb249-d705-4e54-befe-e90db7cf2954" alt="Screenshot" width="400"/>
@@ -74,7 +74,7 @@ width="400"/>
 
 --- 
 
-**Recommendations:**
+### Recommendations:
 Botium Toy’s current security posture has resulted in a wide attack surface that would allow for hackers to utilize a plethora of different attack vectors. This is the reason for its high risk score. To improve Botium Toy’s security posture it is recommended to implement the following changes: 
 
 1. Implement Access Controls: Access to sensitive data and systems should only be provided to those necessary, follow the principle of least privilege. 
