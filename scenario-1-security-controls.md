@@ -78,6 +78,7 @@ width="400"/>
 --- 
 
 This section is optional and can be used to provide a summary of recommendations to the IT manager regarding which controls and/or compliance best practices Botium Toys needs to implement, based on the risk posed if not implemented in a timely manner.<br>
+
 **Recommendations (optional):** In this section, provide recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.<br>
 
 Botium Toy’s current security posture has resulted in a wide attack surface that would allow for hackers to utilize a plethora of different attack vectors. This is the reason for its high risk score. To improve Botium Toy’s security posture it is recommended to implement the following changes: 
