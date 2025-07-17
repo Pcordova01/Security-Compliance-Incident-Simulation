@@ -68,7 +68,7 @@ Then, select **“yes”** or **“no”** to answer the question: Does Botium T
 **Payment Card Industry Data Security Standard (PCI DSS)**<br><br>
 <img src="https://github.com/user-attachments/assets/be3eb249-d705-4e54-befe-e90db7cf2954" alt="Screenshot" width="400"/>
 
-**General Data Protection Regulation (GDPR)**<br><br>
+**General Data Protection Regulation (GDPR)**<br>
 <img src="https://github.com/user-attachments/assets/137c21ab-898b-432d-afc5-4f65701a0ac1" alt="Screenshot"
 width="400"/>
 
