@@ -13,13 +13,13 @@ You take the server offline temporarily so that the machine can recover and retu
 ![Screenshot 2025-07-17 172257](https://github.com/user-attachments/assets/5cd28656-89a6-45d4-a60c-b5f6ddbf9b70)
 
 ## Security Incident Report
-| Section | Details |
+| Section 1 | Details |
 |---------|---------|
-| **1: Identify the network protocol involved in the incident** | The network protocols involved in the incident are **DNS** and **HTTP**. The DNS protocol was used for the source computer to send a DNS query to the server `dns.google.domain`. The HTTP protocol was used for the communication between the source computer and `yummyrecipesforme.com.http`. |
+| **Identify the network protocol involved in the incident** | The network protocols involved in the incident are **DNS** and **HTTP**. The DNS protocol was used for the source computer to send a DNS query to the server `dns.google.domain`. The HTTP protocol was used for the communication between the source computer and `yummyrecipesforme.com.http`. |
 
-| Section | Details |
+| Section 2 | Details |
 |---------|---------|
-| **2: Identify the network protocol involved in the incident** | In a recent cybersecurity incident, ‘yummyrecipeforme.com’ was the target of a successful brute force attack initiated by a formal employee. The attacker attempted multiple default administrator passwords until they successfully gained unauthorized access to the website’s backend. 
+| **Identify the network protocol involved in the incident** | In a recent cybersecurity incident, ‘yummyrecipeforme.com’ was the target of a successful brute force attack initiated by a formal employee. The attacker attempted multiple default administrator passwords until they successfully gained unauthorized access to the website’s backend. 
 
 Once access was obtained, the attacker injected malicious JavaScript into the website. This code altered the website to where it would automatically download an executable file onto user’s devices. When executed, the script would redirect users to a phony website called ‘greatrecipesforme.com’. 
 
