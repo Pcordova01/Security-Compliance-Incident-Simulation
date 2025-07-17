@@ -65,39 +65,12 @@ Then, select **“yes”** or **“no”** to answer the question: Does Botium T
 
 ### Compliance checklist
 
-**Payment Card Industry Data Security Standard (PCI DSS)**<br><br>
+**Payment Card Industry Data Security Standard (PCI DSS)** <br><br>
 <img src="https://github.com/user-attachments/assets/be3eb249-d705-4e54-befe-e90db7cf2954" alt="Screenshot" width="400"/>
 
-**General Data Protection Regulation (GDPR)**<br><br>
+**General Data Protection Regulation (GDPR)** <br><br>
 <img src="https://github.com/user-attachments/assets/137c21ab-898b-432d-afc5-4f65701a0ac1" alt="Screenshot"
 width="400"/>
-
-
-Yes
-    No
-Best practice
-
-
-
-
-E.U. customers’ data is kept private/secured.
-
-
-
-
-There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.
-
-
-
-
-Ensure data is properly classified and inventoried.
-
-
-
-
-Enforce privacy policies, procedures, and processes to properly document and maintain data.
-
-
 
 **System and Organizations Controls (SOC type 1, SOC type 2)** <br><br> 
 Yes
