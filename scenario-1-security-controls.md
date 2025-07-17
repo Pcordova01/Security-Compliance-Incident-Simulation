@@ -83,12 +83,12 @@ This section is optional and can be used to provide a summary of recommendations
 
 Botium Toy’s current security posture has resulted in a wide attack surface that would allow for hackers to utilize a plethora of different attack vectors. This is the reason for its high risk score. To improve Botium Toy’s security posture it is recommended to implement the following changes: 
 
-Implement Access Controls: Access to sensitive data and systems should only be provided to those necessary, follow the principle of least privilege. 
-Utilize Encryption: Sensitive data such as PII and SPII should always be encrypted to mitigate risk in the case of a data breach.
-Update Password Security: Enforce higher standards of complexity and a centralized password management system to reduce the chances of unauthorized access.
-Install IDS: An IDS system will detect suspicious activity and allow the organization to  take immediate action. 
-Create a Disaster Recovery Plan: Establish a disaster recovery plan, with data backups, to ensure a continuity of operations in the event of a security incident or disaster. 
-Improve PCI DSS Compliance: Move towards PCI DSS compliance by encrypting customer card data, and enforcing stricter access to credit card transactions. 
-Improve GDPR and SOC Framework Compliance: To comply with GDPR, classify personal data and enforce stricter access policies. For SOC 1 and SOC 2 compliance, ensure data integrity, access policies, and regularly monitor data availability
+1. Implement Access Controls: Access to sensitive data and systems should only be provided to those necessary, follow the principle of least privilege. 
+2. Utilize Encryption: Sensitive data such as PII and SPII should always be encrypted to mitigate risk in the case of a data breach.
+3. Update Password Security: Enforce higher standards of complexity and a centralized password management system to reduce the chances of unauthorized access.
+4. Install IDS: An IDS system will detect suspicious activity and allow the organization to  take immediate action. 
+5. Create a Disaster Recovery Plan: Establish a disaster recovery plan, with data backups, to ensure a continuity of operations in the event of a security incident or disaster. 
+6. Improve PCI DSS Compliance: Move towards PCI DSS compliance by encrypting customer card data, and enforcing stricter access to credit card transactions. 
+7. Improve GDPR and SOC Framework Compliance: To comply with GDPR, classify personal data and enforce stricter access policies. For SOC 1 and SOC 2 compliance, ensure data integrity, access policies, and regularly monitor data availability
 
 
